@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scriptzzy
+- 👋 Hi, I’m @olanzzy
 - 👀 I’m interested in marketing and learning code
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
